@@ -4,3 +4,5 @@ blue sky.
 
 
 black
+
+delete some words.
