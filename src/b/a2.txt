@@ -1,12 +1,13 @@
 another apple.
 
-yes
-
-
-no
 
 family name.
 
 Then I will do some test.
 
 OK, it's good.
+
+
+c
+
+test
