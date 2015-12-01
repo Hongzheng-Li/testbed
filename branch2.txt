@@ -1,2 +1,4 @@
+add from master
+
 branch2
 an apple
